@@ -1,8 +1,3 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Dai Chekkal
-
-## Who Am I? 🤠
-
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web Development 
+I'm Dai Chekkal
