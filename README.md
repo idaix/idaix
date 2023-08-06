@@ -1,1 +1,1 @@
-![dai](./Dai%20Chekkal.jpg)
+![dai](./banner.jpg)
