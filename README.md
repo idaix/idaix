@@ -1,1 +1,3 @@
-![dai](./banner.jpg)
+<p align="center">
+<img src="./clip.gif"/>
+</p>
