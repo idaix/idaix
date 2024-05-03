@@ -1,3 +1,3 @@
 <p align="center">
-<img src="./clip.gif"/>
+<img src="./dxk.png"/>
 </p>
